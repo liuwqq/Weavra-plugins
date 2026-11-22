@@ -1,4 +1,15 @@
 {
   "schemaVersion": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "type": "skill",
+      "name": "fuyaoai-vip",
+      "displayName": "剧本创作工作室",
+      "version": "2.0.0",
+      "description": "端到端中文剧本创作工作室。用于剧本、竖屏短剧、动画脚本、动态漫画脚本、完整剧本扩写、台词稿、项目资产库、AI 视频分镜、Seedance 2.0 视频提示词、后期 BGM/配乐/声音设计的完整开发流程。官网：https://aimanjuruanjian.com",
+      "author": "扶摇漫剧俱乐部",
+      "file": "skills/fuyaoai-vip/2.0.0/fuyaoai-vip.zip",
+      "sha256": "cead2d6014b1a59108e6681180308250beda6926b4be292c49cf05d3506303c8"
+    }
+  ]
 }
