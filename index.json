@@ -10,6 +10,16 @@
       "author": "扶摇漫剧俱乐部",
       "file": "skills/fuyaoai-vip/2.0.0/fuyaoai-vip.zip",
       "sha256": "cead2d6014b1a59108e6681180308250beda6926b4be292c49cf05d3506303c8"
+    },
+    {
+      "type": "skill",
+      "name": "wan3-prompt-optimizer",
+      "displayName": "万相3.0 视频提示词优化",
+      "version": "1.8.1",
+      "description": "Wan3.0（wan3.0-video / prime）视频提示词落地优化器，把分镜/故事概要改写成 Wan3.0 可直接提交且实测跑通的 prompt，覆盖 @图片N 指代、duration[2,30]、参考素材互斥等协议硬约束与 Good Case 模板，支持文生/首帧/首尾帧/全能参考(@图片·@视频·@音频)/视频编辑全形态。",
+      "author": "wan3.0",
+      "file": "skills/wan3-prompt-optimizer/1.8.1/wan3-prompt-optimizer-1.8.1.zip",
+      "sha256": "d10480297b5f6a8bb0c205833cc0a9d840dab4dd36f9af814259c0339f3e62d7"
     }
   ]
 }
