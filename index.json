@@ -25,11 +25,11 @@
       "type": "node",
       "name": "headSwapNode",
       "displayName": "换头",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "把人像的头部替换为另一张参考图里的头部。输入底图（被替换头部的人像）和头部参考图，走 Wan3.0 网关的 head-swap 平铺异步任务，提交后轮询取图；可选补充描述、反向提示词与 Seed。",
-      "author": "Weavra",
-      "file": "nodes/headSwapNode/1.0.0/headSwapNode.umd.js",
-      "sha256": "6fdfece9b9c4a5a4aeff3fabdb1d7126643c5827e74c2b7898f895de9ba9e603"
+      "author": "扶摇漫剧俱乐部",
+      "file": "nodes/headSwapNode/1.0.1/headSwapNode.umd.js",
+      "sha256": "91d9b95fd839362458300fc6ad68b84cbdf032ad0358f5ae674be66d24f3ed9e"
     }
   ]
 }
