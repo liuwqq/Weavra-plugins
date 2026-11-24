@@ -20,6 +20,16 @@
       "author": "wan3.0",
       "file": "skills/wan3-prompt-optimizer/1.8.1/wan3-prompt-optimizer-1.8.1.zip",
       "sha256": "d10480297b5f6a8bb0c205833cc0a9d840dab4dd36f9af814259c0339f3e62d7"
+    },
+    {
+      "type": "node",
+      "name": "headSwapNode",
+      "displayName": "换头",
+      "version": "1.0.0",
+      "description": "把人像的头部替换为另一张参考图里的头部。输入底图（被替换头部的人像）和头部参考图，走 Wan3.0 网关的 head-swap 平铺异步任务，提交后轮询取图；可选补充描述、反向提示词与 Seed。",
+      "author": "Weavra",
+      "file": "nodes/headSwapNode/1.0.0/headSwapNode.umd.js",
+      "sha256": "4efc94235dc95570afb5744e20d33f23706e1c56ae1014669d8c2a9613409053"
     }
   ]
 }
